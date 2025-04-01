@@ -1,4 +1,4 @@
-是# SSD-BREAKER
+# SSD-BREAKER
 ## 很不幸，我的笔记本电脑被父母收了。
 ### *Unfortunately, my laptop was confiscated by my parents.*
 ## 所以我要破坏他们的电脑以夺回我的电脑。
